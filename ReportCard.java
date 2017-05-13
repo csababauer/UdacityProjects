@@ -62,4 +62,4 @@ public class ReportCard {
                     "grade: " + makegrade +
                     "date: " + makedate;
         }
-    }
+}
