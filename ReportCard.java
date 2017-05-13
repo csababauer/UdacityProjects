@@ -11,7 +11,6 @@ public class ReportCard {
     private int makegrade;
     private String makedate;
 
-
     //method constructor
     public ReportCard(int ID, String StudentName, String Subject, int Grade, String Date) {
         makeID = ID;
@@ -20,7 +19,6 @@ public class ReportCard {
         makegrade = Grade;
         makedate = Date;
     }
-
 
     //make get and set methods available for other activities
     public int getMakeID() {
